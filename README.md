@@ -1,0 +1,1 @@
+# kuberneats_objects
